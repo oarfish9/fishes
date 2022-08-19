@@ -1,3 +1,3 @@
 # I am testing out using RStudio and Git
 
-print('test')
+round(rnorm(10, 5,1),2)
